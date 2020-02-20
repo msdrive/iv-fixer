@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ivfixer.com	TRUE	/	FALSE	1999999999	PHPSESSID	c51nq6lbkvnd9cc0tq69pbcll1
-
